@@ -4,12 +4,6 @@
   Building powerful systems that merge intelligence, design, and real-world impact.
 </p>
 
-<p align="center">
-  <a href="mailto:your-email@example.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-link/">LinkedIn</a> ·
-  <a href="https://github.com/YourUsername">GitHub</a>
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -117,9 +111,9 @@ Developed in **Python**, integrated with **Gemini API** for real-time responses 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="mailto: shriyanshmishra2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shriyansh-mishra-378a14324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Ironomism1/ironomism1"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
 
 ---

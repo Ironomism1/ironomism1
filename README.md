@@ -92,7 +92,7 @@ Developed in **Python**, integrated with **Gemini API** for real-time responses 
 
 ## 🏆 Hackathons & Experience  
 
-- 🧩 **Smart India Hackathon (SIH)** – *Frontend Developer , Software  artitect  & debugging*  
+- 🧩 **Smart India Hackathon (SIH)** – *Frontend Developer , Software  architect  & debugger*  
   - Worked on **Academia Ascend** project; learned cross-team collaboration and fast prototyping.  
 
 ---

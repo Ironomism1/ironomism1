@@ -101,8 +101,8 @@ Includes balance checks, deposit/withdrawal, and authentication.
 
 ## 🏆 Hackathons & Experience  
 
-- 🧩 **Smart India Hackathon (SIH)** – *Frontend Developer, Software Architect & Debugger* - Worked on **Academia Ascend** project; learned cross-team collaboration and fast prototyping.  
-- 🚜 **Agriware Team** – *Developer* - Working on **AgriChain** to revolutionize agricultural market access.
+- 🧩 **Smart India Hackathon (SIH)** –Team EasyGo- *Frontend Developer, Software Architect & Debugger* - Worked on **Academia Ascend** project; learned cross-team collaboration and fast prototyping.  
+- 🚜 **AI Summit 2025 Project Showcase **-Agriware Team– *Developer* - Working on **AgriChain** to revolutionize agricultural market access.
 
 ---
 

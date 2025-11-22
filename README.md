@@ -31,7 +31,7 @@ I believe real innovation comes from curiosity, collaboration, and execution —
 
 ---
 
-## 🧩 Featured Projects  
+## 🧩 My Projects  
 
 ### 🌾 **1. AgriChain (Group Project)** > **Comprehensive Farming Market Platform** > [**View Repository**](https://github.com/Team-Agriware/AgriChain)
 

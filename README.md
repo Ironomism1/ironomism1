@@ -49,7 +49,7 @@ A robust system designed for digital validation. This project represents the nex
 
 ---
 
-### 🐉 **3. Project Pegasus (Ongoing – 40%)** > **LLM Project | AI + Hardware Integration**
+### 🐉 **3. Project Pegasus (Ongoing – 40%)** > **LLM Project | AI + Hardware Integration**> [**View Repository**](https://github.com/Ironomism1/Project-Pegasus)
 
 A large-scale project combining **AI fine-tuning**, **hardware design**, and **local model training**.  
 I’m training an **open-source model (Dolphin)** with **Ollama**, running locally, and simulating its behavior in **Webots**. Includes **hardware integration using C** and voice control.  
@@ -59,7 +59,7 @@ I’m training an **open-source model (Dolphin)** with **Ollama**, running local
 
 ---
 
-### 👁️ **4. AI Image Detector (Legacy)** > **(Formerly Project Pixis) | Image Authenticity Tool**
+### 👁️ **4. AI Image Detector (Legacy)** > **(Formerly Project Pixis) | Image Authenticity Tool**> [**View Repository**](https://github.com/Team-GBTA/Ai-Generated-image-detector)
 
 An AI-based image authenticity detector that identifies **AI-generated vs. real images**.  
 Developed and trained completely from scratch — currently **75% accurate**, with ongoing improvements in dataset quality and CNN optimization.
@@ -69,7 +69,7 @@ Developed and trained completely from scratch — currently **75% accurate**, wi
 
 ---
 
-### 🎓 **5. Academia Ascend (SIH Hackathon Project)** > **Full-Stack Web App for College Management**
+### 🎓 **5. Academia Ascend (SIH Hackathon Project)** > **Full-Stack Web App for College Management**> [**View Repository**](https://github.com/Team-AlgoSphere-304/Academia-Ascend)
 
 A lightweight platform to manage **students, attendance, events, and achievements**.  
 Frontend built in **React**, backend powered by **PHP API**, with **MySQL** for data and an optional **Python microservice (PYLogic.py)** for analytics.  
@@ -79,7 +79,7 @@ Frontend built in **React**, backend powered by **PHP API**, with **MySQL** for 
 
 ---
 
-### 🗣️ **6. Project PyTalk** > **AI Voice Assistant**
+### 🗣️ **6. Project PyTalk** > **AI Voice Assistant**> [**View Repository**](https://github.com/Ironomism1/PyTalk-AI-agent-)
 
 A personal AI voice assistant capable of **conversation and web search**.  
 Developed in **Python**, integrated with **Gemini API** for real-time responses and external query handling.  
@@ -89,7 +89,7 @@ Developed in **Python**, integrated with **Gemini API** for real-time responses 
 
 ---
 
-### 🏧 **7. ATM Banking App** > **Java GUI Project**
+### 🏧 **7. ATM Banking App** > **Java GUI Project**> [**View Repository**](https://github.com/Team-GBTA/Bank-App)
 
 A basic yet complete **ATM system simulation** built with **Java Swing** and **OOP principles**.  
 Includes balance checks, deposit/withdrawal, and authentication.

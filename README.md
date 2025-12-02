@@ -122,7 +122,7 @@ A **multi-agent entertainment recommendation system** that suggests Anime, Manga
 
 - Smart India Hackathon (SIH) – Team Algosphere-304  
 - AI Summit 2025 – Project Showcase (AgriChain)  
-- Kaggle + Google 5-Day AI Agents Intensive — Agentic AI & Multi-Agent Systems  
+- Kaggle + Google 5-Day AI Agents Intensive — Agentic AI & Multi-Agent Systems (Course + Hackathon)
 
 ---
 

@@ -14,104 +14,122 @@
 
 ## 🚀 About Me  
 
-I’m a creator who loves combining **software, hardware, and intelligence** into systems that actually *feel alive*.  
-Currently, I’m mastering **Data Structures & Algorithms** and developing advanced **LLM-based AI projects** while exploring creative tools like **Blender** and **media editing**.  
-
-I believe real innovation comes from curiosity, collaboration, and execution — from hackathons to solo experiments, I’m always learning, building, and refining.
+I’m a builder who loves combining **software, hardware, and intelligence** into systems that feel alive and solve real problems.  
+Currently focused on **Multi-Agent AI systems**, **LLM-powered automation**, and exploring **AI + hardware integration**.
 
 ---
 
 ## 💻 Technical Skills  
 
-**Languages:** Java · Python · C++ · C · JavaScript · TypeScript · HTML · Inline CSS · PHP · SQL  
+**Languages:** Python · C++ · C · Java · JavaScript · TypeScript · HTML · Inline CSS · SQL · PHP  
 
-**Frameworks & Tools:** React · Node.js · MySQL · Git · Blender (beginner) · Webots · Ollama · Dolphin Model · Gemini API · Kali Linux  
+**Frameworks & Tools:** React · Node.js · MySQL · Git · FastAPI · Blender (Beginner) · Webots · Kali Linux  
+**AI Tools & Models:** Gemini API · Ollama · Dolphin LLM · CrewAI (Basic) · Google ADK (Agent Development Kit)  
+**Cloud & Deployment:** Vertex AI Agent Engine (Basics) · MCP (Model Context Protocol) · Agent-Orchestrated Workflows  
 
-**Areas of Interest:** AI & LLMs · Embedded Systems · Full-Stack Development · Fine-Tuning Models · Space Tech · Ethical Hacking  
-
----
-
-## 🧩 My Projects  
-
-### 🌾 **1. AgriChain (Group Project)** > **Comprehensive Farming Market Platform** > [**View Repository**](https://github.com/Team-Agriware/AgriChain)
-
-A solution to market instability for farmers. AgriChain provides a transparent platform for guaranteed buyers, secure agreements, and crop listings.  
-**Role:** Core Team Member  
-**Focus:** Full-Stack Development · Market Logic · Secure Contracts
-
----
-
-### 🛡️ **2. Pixis Validate (Group Project)** > **Advanced Digital Asset Validation** > [**View Repository**](https://github.com/Team-GBTA/Pixis-Validator)
-
-A robust system designed for digital validation. This project represents the next evolution in authenticity checking, built with a focus on scalability and team collaboration.  
-**Role:** Core Team Member  
-**Focus:** Collaborative Development · Validation Logic
+**Agent & LLM Engineering Skills:**  
+- Multi-Agent System Architecture  
+- Context Engineering (Sessions & Memory)  
+- Tool Augmentation & Function Calling  
+- Long-Term Memory & History Persistence  
+- Observability: Logs · Traces · Metrics  
+- Agent Evaluation (LLM-as-a-judge + HITL)  
+- A2A Protocol (Agent-to-Agent communication)
 
 ---
 
-### 🐉 **3. Project Pegasus (Ongoing – 40%)** > **LLM Project | AI + Hardware Integration**> [**View Repository**](https://github.com/Ironomism1/Project-Pegasus)
+## 🧩 Projects  
 
-A large-scale project combining **AI fine-tuning**, **hardware design**, and **local model training**.  
-I’m training an **open-source model (Dolphin)** with **Ollama**, running locally, and simulating its behavior in **Webots**. Includes **hardware integration using C** and voice control.  
-
-**Tech:** JS, React, Ollama, Webots, Python, C, Dolphin Model  
-**Focus:** Local LLM fine-tuning · Simulation · Embedded AI  
-
----
-
-### 👁️ **4. AI Image Detector (Legacy)** > **(Formerly Project Pixis) | Image Authenticity Tool**> [**View Repository**](https://github.com/Team-GBTA/Ai-Generated-image-detector)
-
-An AI-based image authenticity detector that identifies **AI-generated vs. real images**.  
-Developed and trained completely from scratch — currently **75% accurate**, with ongoing improvements in dataset quality and CNN optimization.
-
-**Tech:** Python, TypeScript  
-**Focus:** Deep Learning · Image Classification · Model Training  
-
----
-
-### 🎓 **5. Academia Ascend (SIH Hackathon Project)** > **Full-Stack Web App for College Management**> [**View Repository**](https://github.com/Team-AlgoSphere-304/Academia-Ascend)
-
-A lightweight platform to manage **students, attendance, events, and achievements**.  
-Frontend built in **React**, backend powered by **PHP API**, with **MySQL** for data and an optional **Python microservice (PYLogic.py)** for analytics.  
-
-**Tech:** React, PHP, MySQL, Python  
-**Focus:** Full-Stack Architecture · Debugging · Team Collaboration  
-
----
-
-### 🗣️ **6. Project PyTalk** > **AI Voice Assistant**> [**View Repository**](https://github.com/Ironomism1/PyTalk-AI-agent-)
-
-A personal AI voice assistant capable of **conversation and web search**.  
-Developed in **Python**, integrated with **Gemini API** for real-time responses and external query handling.  
+### 🗣️ **1) Project PyTalk (Solo Project)** — AI Voice Assistant  
+🔗 https://github.com/Ironomism1/PyTalk-AI-agent-  
+An AI-based conversational assistant supporting real-time voice interaction and web search using the **Gemini API**.
 
 **Tech:** Python, Gemini API  
-**Focus:** Voice Processing · API Integration · AI Interaction  
+**Focus:** Voice Processing · Real-Time AI · Web Search
 
 ---
 
-### 🏧 **7. ATM Banking App** > **Java GUI Project**> [**View Repository**](https://github.com/Team-GBTA/Bank-App)
-
-A basic yet complete **ATM system simulation** built with **Java Swing** and **OOP principles**.  
-Includes balance checks, deposit/withdrawal, and authentication.
+### 💳 **2) ATM Banking App (Team GBTA – Java GUI Group Project)**  
+🔗 https://github.com/Team-GBTA/Bank-App  
+A complete hands-on ATM simulation built using **Java Swing** and OOP principles.
 
 **Tech:** Java  
-**Focus:** GUI Development · OOP · Event-Driven Logic  
+**Focus:** GUI · Event-Driven Logic · OOP Fundamentals
+
+---
+
+### 🐉 **3) Project Pegasus (Ongoing – 40%) (Solo Project)**  
+🔗 https://github.com/Ironomism1/Project-Pegasus  
+An advanced project combining **LLM fine-tuning**, local inference with **Ollama**, and robotics simulation in **Webots**, integrating **AI + Hardware**.
+
+**Tech:** Python, C, React, Dolphin Model, Webots  
+**Focus:** Hardware+AI Fusion · Fine-Tuning · Simulation
+
+---
+
+### 👁️ **4) AI Image Detector — Pixis (Duo Project by Team GBTA)**  
+🔗 https://github.com/Team-GBTA/Ai-Generated-image-detector  
+AI tool to classify **real vs AI-generated images**, 75% accuracy with CNN-based training.
+
+**Tech:** Python, TensorFlow  
+**Focus:** Deep Learning · Image Classification · CNN
+
+---
+
+### 🛡️ **5) Pixis Validate (Duo Project by Team GBTA)**  
+🔗 https://github.com/Team-GBTA/Pixis-Validator  
+Digital authenticity verification system built with scalability and validation logic.
+
+**Tech:** JavaScript, Node.js  
+**Focus:** Collaborative Dev · Validation System Architecture
+
+---
+
+### 🎓 **6) Academia Ascend (SIH Hackathon Project — Team Algosphere-304, 6 Members)**  
+🔗 https://github.com/Team-AlgoSphere-304/Academia-Ascend  
+A full college resource and management system for attendance, events & tracking.
+
+**Tech:** React · PHP API · MySQL  
+**Focus:** Full-Stack Design · Real-World Collaboration
+
+---
+
+### 🌾 **7) AgriChain (Team Agriware — 6 Member University Project Showcase)**  
+🔗 https://github.com/Team-Agriware/AgriChain  
+Transparent agricultural buyer-seller marketplace built to reduce crop sale uncertainty.
+
+**Tech:** JavaScript · React · MySQL  
+**Showcase:** AI Summit 2025, University of Lucknow
+
+---
+
+### 🎭 **8) OtakuVerse (Team Algosphere-304, 4 Members) — Multi-Agent AI System**  
+🔗 https://github.com/Team-AlgoSphere-304/Otakuverse  
+A **multi-agent entertainment recommendation system** that suggests Anime, Manga, Manhwa, Comics, Games, Movies, Web Series, Light Novels & Novels based on **mood, genre preference, style, and history memory**.
+
+**Features:**  
+- Multi-Agent architecture: Mood Agent, Catalog Agent, History Agent, Ranking Agent & Orchestrator  
+- **Long-term memory** using SQLite, removes repeated recommendations  
+- **Mood-aware reasoning, smart explanations & ranking**  
+- **Cross-media search across 9 content formats**  
+
+**Tech:** Python · Google ADK · FastAPI · SQLite  
+**Track:** Concierge Agents — Kaggle + Google 5-Day AI Agents Intensive
 
 ---
 
 ## 🏆 Hackathons & Experience  
 
-- 🧩 **Smart India Hackathon (SIH)** (Team EasyGo): *Frontend Developer, Software Architect & Debugger* - Worked on **Academia Ascend** project; learned cross-team collaboration and fast prototyping.  
-- 🚜 **AI Summit 2025 Project Showcase** (Agriware Team): *Developer* - Working on **AgriChain** to revolutionize agricultural market access.
+- Smart India Hackathon (SIH) – Team Algosphere-304  
+- AI Summit 2025 – Project Showcase (AgriChain)  
+- Kaggle + Google 5-Day AI Agents Intensive — Agentic AI & Multi-Agent Systems  
 
 ---
 
-## 🛠️ Other Skills & Interests  
+## 🛠 Interests  
 
-- Currently learning **DSA** for stronger algorithmic thinking.  
-- Beginner in **Blender 3D design** and **video/image editing**.  
-- Interested in **space**, **AI hardware fusion**, and **emerging technologies**.  
-- Active in **badminton** and **swimming** — keeps mind sharp and ideas flowing.  
+AI Hardware Fusion · Robotics · Space Tech · Blender 3D · Image & Video Editing · Cybersecurity  
+Also a **badminton & swimming** enthusiast 🏸🏊‍♂️
 
 ---
 

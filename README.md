@@ -96,9 +96,9 @@ A full college resource and management system for attendance, events & tracking.
 
 ### 🌾 **7) AgriChain (Team Agriware — 6 Member University Project Showcase)**  
 🔗 https://github.com/Team-Agriware/AgriChain  
-Transparent agricultural buyer-seller marketplace built to reduce crop sale uncertainty.
+Transparent agricultural buyer-seller Blockchain marketplace built to reduce crop sale uncertainty.
 
-**Tech:** JavaScript · React · MySQL  
+**Tech:**  JavaScript · React · MySQL · Solidity · MongoDB · Python  
 **Showcase:** AI Summit 2025, Bennett University
 
 ---

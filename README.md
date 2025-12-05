@@ -99,7 +99,7 @@ A full college resource and management system for attendance, events & tracking.
 Transparent agricultural buyer-seller marketplace built to reduce crop sale uncertainty.
 
 **Tech:** JavaScript · React · MySQL  
-**Showcase:** AI Summit 2025, University of Lucknow
+**Showcase:** AI Summit 2025, Bennett University
 
 ---
 
